@@ -1,5 +1,9 @@
 [gd_scene format=3 uid="uid://cwkg8jfptwp40"]
 
+<<<<<<< HEAD
 [node name="Level 1" type="Node2D" unique_id=1488192894]
 
 [node name="Node2D" type="Node2D" parent="." unique_id=1539790365]
+=======
+[node name="Vše" type="Node2D" unique_id=1488192894]
+>>>>>>> origin/main
